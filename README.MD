@@ -71,7 +71,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <p>&nbsp&nbsp&nbspPhelipe Feitosa<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/Phfeitosa1530Code">
+        href="https://github.com/PhFeitosa1530/Podcast/blob/main">
         GitHub
     </a>
     &nbsp;|&nbsp;
